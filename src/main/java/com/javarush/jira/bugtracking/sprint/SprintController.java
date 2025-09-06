@@ -14,9 +14,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
-
 import java.util.List;
-
 import static com.javarush.jira.bugtracking.ObjectType.SPRINT;
 import static com.javarush.jira.common.BaseHandler.REST_URL;
 import static com.javarush.jira.common.BaseHandler.createdResponse;

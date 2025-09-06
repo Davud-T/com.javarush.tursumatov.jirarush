@@ -2,7 +2,6 @@ package com.javarush.jira.common;
 
 import com.javarush.jira.common.to.BaseTo;
 import org.mapstruct.MappingTarget;
-
 import java.util.Collection;
 import java.util.List;
 

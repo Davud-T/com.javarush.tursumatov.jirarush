@@ -4,7 +4,6 @@ import com.javarush.jira.common.model.TimestampEntry;
 import org.springframework.data.domain.Sort;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.NoRepositoryBean;
-
 import java.util.List;
 
 @NoRepositoryBean

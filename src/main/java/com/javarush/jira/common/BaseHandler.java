@@ -9,12 +9,10 @@ import org.springframework.data.domain.Sort;
 import org.springframework.http.ResponseEntity;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
-
 import java.net.URI;
 import java.util.List;
 import java.util.function.BiFunction;
 import java.util.function.Function;
-
 import static com.javarush.jira.common.util.validation.ValidationUtil.assureIdConsistent;
 import static com.javarush.jira.common.util.validation.ValidationUtil.checkNew;
 

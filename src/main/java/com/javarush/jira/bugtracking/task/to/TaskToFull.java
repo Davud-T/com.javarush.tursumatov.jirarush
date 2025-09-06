@@ -3,7 +3,6 @@ package com.javarush.jira.bugtracking.task.to;
 import com.javarush.jira.common.to.CodeTo;
 import lombok.Getter;
 import lombok.Setter;
-
 import java.time.LocalDateTime;
 import java.util.List;
 

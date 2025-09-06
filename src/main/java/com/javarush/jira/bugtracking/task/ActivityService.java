@@ -7,9 +7,7 @@ import com.javarush.jira.login.AuthUser;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-
 import java.util.List;
-
 import static com.javarush.jira.bugtracking.task.TaskUtil.getLatestValue;
 
 @Service

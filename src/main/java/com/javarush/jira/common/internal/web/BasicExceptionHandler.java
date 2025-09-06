@@ -16,13 +16,11 @@ import org.springframework.validation.BindException;
 import org.springframework.web.HttpRequestMethodNotSupportedException;
 import org.springframework.web.bind.MissingServletRequestParameterException;
 import org.springframework.web.servlet.NoHandlerFoundException;
-
 import java.io.FileNotFoundException;
 import java.nio.file.AccessDeniedException;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Optional;
-
 import static com.javarush.jira.common.error.ErrorType.APP_ERROR;
 
 @Slf4j

@@ -1,6 +1,5 @@
 package com.javarush.jira.bugtracking.tree;
 
-
 import com.javarush.jira.bugtracking.project.ProjectMapper;
 import com.javarush.jira.bugtracking.project.ProjectRepository;
 import com.javarush.jira.bugtracking.sprint.SprintMapper;
@@ -16,7 +15,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Function;

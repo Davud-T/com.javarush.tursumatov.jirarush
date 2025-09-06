@@ -14,10 +14,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
-
 import java.util.*;
 import java.util.stream.Collectors;
-
 import static com.javarush.jira.ref.RefType.*;
 import static com.javarush.jira.ref.ReferenceService.getRefs;
 

@@ -3,7 +3,6 @@ package com.javarush.jira.bugtracking.tree;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.javarush.jira.bugtracking.ObjectType;
 import org.springframework.lang.NonNull;
-
 import java.util.LinkedList;
 import java.util.List;
 
